@@ -7,7 +7,7 @@ In this project, we are analyzing the IMDB reviews dataset. Moreover, we will be
 
 ## Data Collection:
 
-The dataset is obtained from [IMDb Review Dataset - ebD | Kaggle](https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset?select=sample.json). It is collected from IMDB with total records of 5,571,499 reviews for 453,528 total shows. The reviews are written by 1, 699, 310 users. 
+The dataset is obtained from [IMDb Review Dataset - ebD | Kaggle](https://www.kaggle.com/datasets/ebiswas/imdb-review-dataset?select=sample.json). It is collected from IMDB with total records of 5,571,499 reviews for 453,528 total shows. The reviews are written by 1,699,310 users. 
 
 The data is split into 6 json files each of which has the following elements:
 
